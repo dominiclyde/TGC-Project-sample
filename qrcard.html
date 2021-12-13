@@ -97,7 +97,7 @@
  <!-- Generate QR Card -->
 
 <h4>Generate QR Card</h4>
-<form id="booking-form">
+<form id="qr-form">
   <h5>Enter Personal Details</h5>
   <div class="form-row">
     <div class="form-group col-md-6">
@@ -201,9 +201,42 @@
     </div>
 </div><br>
    
-  
+<button
+type="button"
+class="btn btn-primary"
+data-toggle="modal"
+data-target="#exampleModal"
+>
+Submit 
+</button>
+</form>
 
-  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<div
+   class="modal fade"
+   id="exampleModal"
+   tabindex="-1"
+   aria-labelledby="exampleModalLabel"
+   aria-hidden="true"
+ >
+   <div class="modal-dialog">
+     <div class="modal-content">
+     
+
+<div class="alert alert-success m-0"  role="alert">
+<h5 class="alert-heading">Well done!</h5>
+<p>You've Successfully Generate a QR Card. </p>
+<p>Your Vaccine QR Card will be sent to your email in 3-5 working days. </p>
+<hr>
+<p>
+  If QR card has not been sent in more than
+  a week, kindly email us  at vaxcert.doh.gov.ph
+</p>
+
+</div>
+</div></div></div>
+
+
 
 
     <!-- Leaflet -->

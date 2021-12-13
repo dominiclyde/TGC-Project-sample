@@ -70,10 +70,10 @@
           Choose a City
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="index.html#Cebu">Cebu City</a>
-          <a class="dropdown-item" href="index.html#Mandaue">Mandaue City</a>
-          <a class="dropdown-item" href="index.html#Lapulapu">Lapu-lapu City</a>
-          <a class="dropdown-item" href="index.html#Talisay">Talisay City</a>
+          <a class="dropdown-item" href="#Cebu">Cebu City</a>
+          <a class="dropdown-item" href="#Mandaue">Mandaue City</a>
+          <a class="dropdown-item" href="#Lapulapu">Lapu-lapu City</a>
+          <a class="dropdown-item" href="#Talisay">Talisay City</a>
           <a class="dropdown-item" href="#">Carcar City</a>
           <a class="dropdown-item" href="#">Naga City</a>
           <a class="dropdown-item" href="#">Danao City</a>
@@ -93,124 +93,12 @@
   </div>
 </nav>
 
- <!-- Booking Form -->
-
- <h4>Book a Schedule</h4>
- <form id="booking-form">
-   <div class="form-row">
-     <div class="form-group col-md-6">
-       <label for="inputEmail4">First Name</label>
-       <input type="email" class="form-control" id="inputEmail4" placeholder="Enter First Name">
-     </div>
-     <div class="form-group col-md-6">
-       <label for="inputEmail4">Last Name</label>
-       <input type="email" class="form-control" id="inputEmail4" placeholder="Enter Last Name">
-     </div>
-     <div class="form-group col-md-6">
-       <label for="inputPassword4">Contact Number</label>
-       <input type="password" class="form-control" id="inputPassword4" placeholder="Contact Number">
-     </div>
-     <div class="form-group col-md-6">
-       <label for="inputPassword4">Email Address</label>
-       <input type="password" class="form-control" id="inputPassword4" placeholder="email1234@gmail.com">
-     </div>
-   </div>
-   <div class="form-group">
-     <label for="inputAddress">Address</label>
-     <input type="text" class="form-control" id="inputAddress" placeholder="Village,St.,Brgy.,City">
-   </div>
-  
-   <div class="form-row">
-   
-     <div class="form-group col-md-6">
-       <label for="inputState">City</label>
-       <select id="inputState" class="form-control">
-         <option selected>Choose...</option>
-         <option>Cebu City</option>
-         <option>Mandaue City</option>
-         <option>Lapu-lapu City</option>
-         <option>Talisay City</option>
-         <option>Naga City</option>
-         <option>Carcar City</option>
-         <option>Danao City</option>
-       </select>
-     </div>
-     <div class="form-group col-md-6">
-       <label for="inputState">Vaccination Site</label>
-       <select id="inputState" class="form-control">
-         <option selected>Choose...</option>
-         <option>Cebu City</option>
-         <option>Mandaue City</option>
-         <option>Lapu-lapu City</option>
-         <option>Talisay City</option>
-         <option>Naga City</option>
-         <option>Carcar City</option>
-         <option>Danao City</option>
-       </select>
-     </div>
-     <div class="form-group col-md-6">
-       <label for="inputState">Category</label>
-       <select id="inputState" class="form-control">
-         <option selected>Choose...</option>
-         <option>A1- Health Care Worker</option>
-         <option>A2- Government Worker</option>
-         <option>A3- Person with Comorbidity</option>
-         <option>A4- Employed Pesron</option>
-         <option>A5- Elderly (60 yrs above)</option>
-         <option>A6- Minors (12-18 yrs old)</option>
-         <option>Rest of Population</option>
-       </select>
-     </div>
-     <div class="form-group col-md-6">
-       <label for="inputZip"> Government ID</label>
-       <div class="input-group mb-6">
-         
-         <div class="custom-file">
-           <input type="file" class="custom-file-input" id="inputGroupFile01">
-           <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
-         </div>
-       </div>
-     </div>
-   </div>
- 
-
-   <button
-   type="button"
-   class="btn btn-primary"
-   data-toggle="modal"
-   data-target="#exampleModal"
- >
-  Submit 
- </button>
- </form>
-
-</form>
-<div
-      class="modal fade"
-      id="exampleModal"
-      tabindex="-1"
-      aria-labelledby="exampleModalLabel"
-      aria-hidden="true"
-    >
-      <div class="modal-dialog">
-        <div class="modal-content">
-        
-
- <div class="alert alert-success m-0"  role="alert">
-   <h5 class="alert-heading">Well done!</h5>
-   <p>You've Successfully Booked a Schedule. </p>
-   <hr>
-   <p>A booking confirmation will be sent to your email. Kindly bring the confirmation voucher to your designated vaccination site.</p>
-   
- </div>
-</div></div></div>
-
- 
+<div id="demo-booking-single"></div>
 
 
     <!-- Leaflet -->
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-<script src="script2.js"></script>
+<script src="calendar.js"></script>
 <!-- Bootstrap -->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"

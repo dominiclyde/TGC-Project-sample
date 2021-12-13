@@ -45,9 +45,15 @@ h4{
     margin-right: auto;
 }
 
+#allmap{
+    height: 600px;
+    width: 90%;
+    margin: 40px auto;
+    padding: 40px;
+}
 
 #map{
-    height: 400px;
+    height: 500px;
     width: 80%;
     margin: 40px auto;
     padding: 40px;
@@ -74,11 +80,30 @@ h4{
     padding: 40px;
 }
 
+#map5, #map6,#map7,#map8,#map9 {
+    height: 400px;
+    width: 80%;
+    margin: 40px auto;
+    padding: 40px;
+}
 
+#map10, #map11,#map12,#map13 {
+    height: 400px;
+    width: 80%;
+    margin: 40px auto;
+    padding: 40px;
+}
 
-
+#demo-booking-single{
+    height: 500px;
+    width: 500px;
+}
 
 
 #booking-form{
+    padding: 40px;
+}
+
+#qr-form{
     padding: 40px;
 }
