@@ -23,9 +23,10 @@ let description1 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_cebu_seaside.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>`
-SMSeaside.bindPopup(description1);
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
+      SMSeaside.bindPopup(description1);
 
 // Cebu Vaccine Site 2
 
@@ -39,9 +40,10 @@ let description2 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_cebu_smcebu.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>`
-SMCebu.bindPopup(description2);
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
+      SMCebu.bindPopup(description2);
 
 // Cebu Vaccine Site 3
 
@@ -55,8 +57,9 @@ let description3 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_cebu_robinson.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 Robinsons.bindPopup(description3);
 
 // Cebu Vaccine Site 4
@@ -87,8 +90,9 @@ let description5 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_cebu_ucmain.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 UCMain.bindPopup(description5);
 
 // Cebu Vaccine Site 6
@@ -103,8 +107,8 @@ let description6 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_cebu_noah.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Noah.bindPopup(description6);
 
@@ -120,8 +124,8 @@ let description7 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_cebu_ayala.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Ayala.bindPopup(description7);
 
@@ -137,8 +141,8 @@ let description8 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_cebu_waterfront.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Waterfront.bindPopup(description8);
 
@@ -154,8 +158,8 @@ let description9 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_cebu_swu.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 SWU.bindPopup(description9);
 
@@ -171,8 +175,8 @@ let description10 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_mandaue_complex.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 SportComp.bindPopup(description10);
 
@@ -188,8 +192,8 @@ let description11 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_mandaue_uclm.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 UCLM.bindPopup(description11);
 
@@ -205,8 +209,8 @@ let description12 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_mandaue_parkmall.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Parkmall.bindPopup(description12);
 
@@ -223,8 +227,8 @@ let description13 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_mandaue_jmall.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Jmall.bindPopup(description13);
 
@@ -240,8 +244,8 @@ let description14 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_mandaue_pacific.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Pacificmall.bindPopup(description14);
 
@@ -257,8 +261,8 @@ let description15 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_lapu_island.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Islandmall.bindPopup(description15);
 
@@ -274,8 +278,8 @@ let description16 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_lapu_shrine.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Shrine.bindPopup(description16);
 
@@ -291,8 +295,8 @@ let description17 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_lapu_hoops.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Hoops.bindPopup(description17);
 
@@ -308,8 +312,8 @@ let description18 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_lapu_gym.webp"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Gym.bindPopup(description18);
 
@@ -343,8 +347,8 @@ let description20 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_talisay_starmall.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Starmall.bindPopup(description20);
 
@@ -360,8 +364,8 @@ let description21 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_talisay_gaisano.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Gaisano.bindPopup(description21);
 
@@ -377,8 +381,8 @@ let description22 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_carcar_center.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 HealthOffice.bindPopup(description22);
 
@@ -395,8 +399,8 @@ let description23 = `
       <div style="text-align:center">
       <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Gym3.bindPopup(description23);
 
@@ -410,10 +414,10 @@ let description24 = `
       <h5>Immaculate Heart of Mary Academy Gym</h5>
       <p>Poblacion, Ward 3, Minglanilla, 6046 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_mingla_ihma.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Ihma.bindPopup(description24);
 
@@ -427,10 +431,10 @@ let description25 = `
       <h5>Minglanilla Sports Complex</h5>
       <p>18 Julio Street, Poblacion Ward 2, Minglanilla City, 6046 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_mingla_sports.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 MSports.bindPopup(description25);
 
@@ -444,10 +448,10 @@ let description26 = `
       <h5>Gaisano Grand Mall</h5>
       <p>Cebu S Rd, Minglanilla, 6046 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_mingla_gaisano.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 GaisanoGrand.bindPopup(description26);
 
@@ -462,10 +466,10 @@ let description27 = `
       <h5>Enan Chiong Activity Center</h5>
       <p>East Poblacion Barangay Hall, Natalio B. Bacalso S National Hwy, City of Naga, Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_naga_ecac.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Ecac.bindPopup(description27);
 
@@ -480,10 +484,10 @@ let description28 = `
       <h5>APO Cemex Gym</h5>
       <p>2900 South National Hwy, Tina-An, City of Naga, 6037 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_naga_apo.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Apo.bindPopup(description28);
 
@@ -497,10 +501,10 @@ let description29 = `
       <h5>Inoburan Covered Court</h5>
       <p>Natalio D. Bacalso S. National Highway, Inoburan, City of Naga, 6037 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_naga_inuburan.jpeg"/>
       </div><br>
-      <button type="button" class="btn btn-primary" my-2 my-sm-0 >Book Schedule</button>
-      <button type="button" class="btn btn-info" my-2 my-sm-0 >Check Availabilty</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
       `
 Inuburan.bindPopup(description29);
 
@@ -514,10 +518,11 @@ let description30 = `
       <h5>Uling Covered Court</h5>
       <p>Naga - Uling Rd, City of Naga, 6037 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_naga_inuburan.jpeg"/>
       </div><br>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 Uling.bindPopup(description30);
 
 // San Fernando Vaccine Site 31
@@ -530,10 +535,11 @@ let description31 = `
       <h5>San Fernando Sports Complex</h5>
       <p>Natalio B. Bacalso S National Hwy, San Fernando, Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_sanfer_sports.png"/>
       </div><br>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 SFSport.bindPopup(description31);
 
 // San Fernando Vaccine Site 32
@@ -546,10 +552,11 @@ let description32 = `
       <h5>Rural Health Unit Center</h5>
       <p>Poblacion South, San Fernando, 6018</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_sanfer_rhuc.jpeg"/>
       </div><br>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 RHUC.bindPopup(description32);
 
 
@@ -563,10 +570,11 @@ let description33 = `
       <h5>San Isidro Sports Complex</h5>
       <p>San Isidro Bridge, San Fernando, Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_sanfer_sanisidro.jpeg"/>
       </div><br>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 SISport.bindPopup(description33);
 
 
@@ -580,10 +588,11 @@ let description34 = `
       <h5>SM Consolacion</h5>
       <p>SM City Consolacion Lamac Consolacion, Cebu City, Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_lacion_sm.jpeg"/>
       </div><br>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 SMLacion.bindPopup(description34);
 
 
@@ -597,10 +606,11 @@ let description35 = `
       <h5>Consolacion Municipal Court</h5>
       <p>Central Nautical Hwy, Consolacion, 6001 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_lacion_court.jpeg"/>
       </div><br>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 LacionCourt.bindPopup(description35);
 
 // Liloan Vaccine Site 36
@@ -613,10 +623,11 @@ let description36 = `
       <h5>Panphil B. Frasco Memorial Sports Complex</h5>
       <p>Cebu - North Coastal Rd, Poblacion, Liloan, 6002 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_liloan_sports.jpeg"/>
       </div><br>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 LoanSport.bindPopup(description36);
 
 // Liloan Vaccine Site 37
@@ -629,10 +640,11 @@ let description37 = `
       <h5>Liloan Central School</h5>
       <p>Liloan Central School, Liloan, 6002 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_liloan_central.jpeg"/>
       </div><br>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 LoanSchool.bindPopup(description37);
 
 
@@ -646,10 +658,11 @@ let description38 = `
       <h5>DM Reynes Gym</h5>
       <p>Poblacion, Compostela, Cebu City</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_comp_gym.jpeg"/>
       </div><br>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 DMGym.bindPopup(description38);
 
 // Danao Vaccine Site 39
@@ -662,10 +675,11 @@ let description39 = `
       <h5>Danao City Civic Center</h5>
       <p>461 P.G. Almendras St, Danao City, Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_danao_civic.jpeg"/>
       </div><br>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 DanaoGym.bindPopup(description39);
 
 // Cordova Vaccine Site 40
@@ -678,21 +692,13 @@ let description40 = `
       <h5>Cordova Sports Complex</h5>
       <p>Juan Sitoy St, Poblacion, Cordova, 6017 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_cordova_sports.jpeg"/>
       </div><br>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
-      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html#booking-form">Book Schedule</button>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html#qr-form" >Generate QR Card</button>
+      `
 CordovaGym.bindPopup(description40);
 
-
-
-
-
-function CebuCityClick(){
-      layerGroup.clearLayers();
-      marker=[SMCebu,SMSeaside, Robinsons, UCBanilad, UCMain, Noah, Ayala, Waterfront,SWU]
-      
-}
 
 
 // ======================================================================
@@ -13552,3 +13558,887 @@ let  TalisayJson = {
 
 L.geoJSON(TalisayJson).bindPopup(Talisay_description).addTo(MetroCebu)
             
+// ======================================================================
+  
+//                   Minglanilla GeoJSON File
+
+// ======================================================================\
+
+// Minglanilla BindPopUp
+
+let Minglanilla_description = `
+      <div style="text-align:center">
+      <img width="100" height="100"src="Images/logo_cebu.png"/>
+      <h5>Minglanilla</h5>
+      <p>
+      <table class="table">
+  <thead>
+    <tr>
+      <th>Total Vaccines Administered</th>
+      <th>422,579</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <th>First Dose Administered</th>
+    <th>228,541</th>
+    </tr>
+    <tr>
+    <th>Second Dose Administered</th>
+    <th>194,038</th>
+    </tr> 
+    <tr>
+    <th>No. of Vaccine Sites</th>
+    <th>4</th>
+    </tr>
+  </tbody>
+      </table>
+      
+      </p>
+      </div>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="index.html#Minglanilla">Vaccination Sites</button><br>
+      <a type="button" class="btn btn-light" my-2 my-sm-0 href="https://www.facebook.com/lapulapucityhealthoffice/"> 
+      Requirements</button>
+      `
+
+      let MinglanillaJson = 
+      {
+          "type": "Feature",
+          "properties": {
+              "ID_0": 177,
+              "ISO": "PHL",
+              "NAME_0": "Philippines",
+              "ID_1": 25,
+              "NAME_1": "Cebu",
+              "ID_2": 472,
+              "NAME_2": "Minglanilla",
+              "NL_NAME_2": null,
+              "VARNAME_2": null,
+              "TYPE_2": "Bayan|Munisipyo",
+              "ENGTYPE_2": "Municipality",
+              "PROVINCE": "Cebu",
+              "REGION": "Central Visayas (Region VII)"
+          },
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          123.785369873046989,
+                          10.287799835205021
+                      ],
+                      [
+                          123.793548583984375,
+                          10.280690193176326
+                      ],
+                      [
+                          123.797782897949332,
+                          10.281599998474121
+                      ],
+                      [
+                          123.805473327636719,
+                          10.269550323486328
+                      ],
+                      [
+                          123.80602264404331,
+                          10.268739700317383
+                      ],
+                      [
+                          123.80715942382858,
+                          10.26801967620861
+                      ],
+                      [
+                          123.808212280273438,
+                          10.267379760742244
+                      ],
+                      [
+                          123.809593200683707,
+                          10.266440391540584
+                      ],
+                      [
+                          123.810638427734375,
+                          10.26587963104248
+                      ],
+                      [
+                          123.812149047851562,
+                          10.265469551086539
+                      ],
+                      [
+                          123.812759399414404,
+                          10.264200210571516
+                      ],
+                      [
+                          123.813583374023892,
+                          10.262089729309082
+                      ],
+                      [
+                          123.813377380371094,
+                          10.260919570922852
+                      ],
+                      [
+                          123.812637329102017,
+                          10.25994014740013
+                      ],
+                      [
+                          123.811882019043082,
+                          10.259079933166618
+                      ],
+                      [
+                          123.811561584472997,
+                          10.257559776306152
+                      ],
+                      [
+                          123.811798095703466,
+                          10.256600379943961
+                      ],
+                      [
+                          123.812377929687841,
+                          10.255470275878849
+                      ],
+                      [
+                          123.812362670898551,
+                          10.254269599914551
+                      ],
+                      [
+                          123.811988830566747,
+                          10.253270149231071
+                      ],
+                      [
+                          123.812110900879361,
+                          10.25236988067627
+                      ],
+                      [
+                          123.81257629394554,
+                          10.251290321350041
+                      ],
+                      [
+                          123.812278747558707,
+                          10.250049591064453
+                      ],
+                      [
+                          123.812377929687841,
+                          10.248720169067383
+                      ],
+                      [
+                          123.812980651855469,
+                          10.247579574585075
+                      ],
+                      [
+                          123.813606262207145,
+                          10.246970176697005
+                      ],
+                      [
+                          123.814292907715071,
+                          10.246649742126579
+                      ],
+                      [
+                          123.814918518066861,
+                          10.246250152587891
+                      ],
+                      [
+                          123.815567016601904,
+                          10.245490074157829
+                      ],
+                      [
+                          123.815818786621321,
+                          10.244640350341911
+                      ],
+                      [
+                          123.815933227539517,
+                          10.244489669799862
+                      ],
+                      [
+                          123.81629943847679,
+                          10.243080139160099
+                      ],
+                      [
+                          123.816177368164176,
+                          10.241720199584961
+                      ],
+                      [
+                          123.815727233886946,
+                          10.240630149841309
+                      ],
+                      [
+                          123.815162658691861,
+                          10.239890098571834
+                      ],
+                      [
+                          123.814697265625,
+                          10.239480018615666
+                      ],
+                      [
+                          123.814033508301122,
+                          10.23882007598877
+                      ],
+                      [
+                          123.813957214355469,
+                          10.238380432128963
+                      ],
+                      [
+                          123.813980102539176,
+                          10.237979888916129
+                      ],
+                      [
+                          123.814582824707259,
+                          10.237739562988224
+                      ],
+                      [
+                          123.813377380371094,
+                          10.237649917602539
+                      ],
+                      [
+                          123.812202453613509,
+                          10.237509727477971
+                      ],
+                      [
+                          123.81086730957054,
+                          10.237270355224609
+                      ],
+                      [
+                          123.810630798339844,
+                          10.237219810485897
+                      ],
+                      [
+                          123.810203552246548,
+                          10.237250328064022
+                      ],
+                      [
+                          123.809776306152798,
+                          10.23733043670677
+                      ],
+                      [
+                          123.809371948242188,
+                          10.237429618835392
+                      ],
+                      [
+                          123.809181213378906,
+                          10.237460136413574
+                      ],
+                      [
+                          123.808921813964844,
+                          10.237500190734863
+                      ],
+                      [
+                          123.808486938477017,
+                          10.237529754638729
+                      ],
+                      [
+                          123.807823181152344,
+                          10.237830162048397
+                      ],
+                      [
+                          123.807258605957031,
+                          10.237899780273551
+                      ],
+                      [
+                          123.806770324707486,
+                          10.237899780273551
+                      ],
+                      [
+                          123.806419372558594,
+                          10.237830162048397
+                      ],
+                      [
+                          123.805366516113281,
+                          10.237830162048397
+                      ],
+                      [
+                          123.804733276367301,
+                          10.23787975311285
+                      ],
+                      [
+                          123.804397583007812,
+                          10.237899780273551
+                      ],
+                      [
+                          123.803840637207031,
+                          10.237970352172795
+                      ],
+                      [
+                          123.80342102050804,
+                          10.237970352172795
+                      ],
+                      [
+                          123.802101135253906,
+                          10.237899780273551
+                      ],
+                      [
+                          123.801208496093864,
+                          10.237719535827864
+                      ],
+                      [
+                          123.800697326660156,
+                          10.237620353698674
+                      ],
+                      [
+                          123.80063629150402,
+                          10.237620353698674
+                      ],
+                      [
+                          123.800346374511832,
+                          10.23754978179943
+                      ],
+                      [
+                          123.799926757812841,
+                          10.23748970031744
+                      ],
+                      [
+                          123.799873352050895,
+                          10.23748970031744
+                      ],
+                      [
+                          123.799240112304688,
+                          10.237420082092285
+                      ],
+                      [
+                          123.798957824707486,
+                          10.237420082092285
+                      ],
+                      [
+                          123.798606872558594,
+                          10.237350463867131
+                      ],
+                      [
+                          123.79821014404331,
+                          10.237210273742733
+                      ],
+                      [
+                          123.797706604004134,
+                          10.236860275268612
+                      ],
+                      [
+                          123.797241210937955,
+                          10.236900329589901
+                      ],
+                      [
+                          123.797012329101676,
+                          10.236920356750488
+                      ],
+                      [
+                          123.795761108398438,
+                          10.236920356750488
+                      ],
+                      [
+                          123.794647216797102,
+                          10.236920356750488
+                      ],
+                      [
+                          123.793807983398892,
+                          10.236860275268612
+                      ],
+                      [
+                          123.792831420898551,
+                          10.236439704895076
+                      ],
+                      [
+                          123.79255676269554,
+                          10.235759735107422
+                      ],
+                      [
+                          123.792411804199673,
+                          10.235400199890194
+                      ],
+                      [
+                          123.792266845703352,
+                          10.234709739685059
+                      ],
+                      [
+                          123.792060852050895,
+                          10.23402023315424
+                      ],
+                      [
+                          123.791847229004361,
+                          10.233679771423454
+                      ],
+                      [
+                          123.791366577148438,
+                          10.233200073242188
+                      ],
+                      [
+                          123.791122436523665,
+                          10.233099937439079
+                      ],
+                      [
+                          123.79080963134777,
+                          10.233039855957088
+                      ],
+                      [
+                          123.79046630859375,
+                          10.232950210571346
+                      ],
+                      [
+                          123.790107727050781,
+                          10.232769966125488
+                      ],
+                      [
+                          123.789680480957372,
+                          10.232549667358398
+                      ],
+                      [
+                          123.789123535156477,
+                          10.232419967651424
+                      ],
+                      [
+                          123.788673400879247,
+                          10.232099533081168
+                      ],
+                      [
+                          123.788307189941406,
+                          10.231670379638786
+                      ],
+                      [
+                          123.787933349609375,
+                          10.231349945068303
+                      ],
+                      [
+                          123.787437438964844,
+                          10.231269836425781
+                      ],
+                      [
+                          123.78704833984375,
+                          10.231089591980094
+                      ],
+                      [
+                          123.786697387695767,
+                          10.230850219726676
+                      ],
+                      [
+                          123.786338806152457,
+                          10.230680465698242
+                      ],
+                      [
+                          123.786209106445312,
+                          10.230609893798828
+                      ],
+                      [
+                          123.786163330078352,
+                          10.230580329895133
+                      ],
+                      [
+                          123.785972595215071,
+                          10.230509757995719
+                      ],
+                      [
+                          123.785758972168082,
+                          10.230360031127987
+                      ],
+                      [
+                          123.785629272460938,
+                          10.230290412902832
+                      ],
+                      [
+                          123.785301208496321,
+                          10.230050086975154
+                      ],
+                      [
+                          123.784942626953125,
+                          10.22992038726818
+                      ],
+                      [
+                          123.784622192382926,
+                          10.22976016998291
+                      ],
+                      [
+                          123.784469604492529,
+                          10.231399536132926
+                      ],
+                      [
+                          123.78385162353527,
+                          10.232760429382552
+                      ],
+                      [
+                          123.783546447753906,
+                          10.233739852905273
+                      ],
+                      [
+                          123.7825927734375,
+                          10.235409736633301
+                      ],
+                      [
+                          123.780929565429688,
+                          10.236539840698185
+                      ],
+                      [
+                          123.779518127441747,
+                          10.237719535827864
+                      ],
+                      [
+                          123.779190063476904,
+                          10.23882007598877
+                      ],
+                      [
+                          123.778808593750341,
+                          10.239290237426871
+                      ],
+                      [
+                          123.778228759765966,
+                          10.240449905395451
+                      ],
+                      [
+                          123.7777099609375,
+                          10.241279602050838
+                      ],
+                      [
+                          123.776893615722997,
+                          10.242440223694075
+                      ],
+                      [
+                          123.776199340820767,
+                          10.2438001632691
+                      ],
+                      [
+                          123.775833129882926,
+                          10.245400428771973
+                      ],
+                      [
+                          123.775833129882926,
+                          10.246270179748592
+                      ],
+                      [
+                          123.775909423828125,
+                          10.246809959411735
+                      ],
+                      [
+                          123.775993347167969,
+                          10.247500419616813
+                      ],
+                      [
+                          123.775436401367642,
+                          10.248880386352539
+                      ],
+                      [
+                          123.774528503418196,
+                          10.249349594116211
+                      ],
+                      [
+                          123.773361206054801,
+                          10.250220298767147
+                      ],
+                      [
+                          123.772598266601676,
+                          10.251130104064941
+                      ],
+                      [
+                          123.772613525390739,
+                          10.252169609069824
+                      ],
+                      [
+                          123.773063659667969,
+                          10.252969741821346
+                      ],
+                      [
+                          123.772377014160156,
+                          10.253669738769759
+                      ],
+                      [
+                          123.7716064453125,
+                          10.253780364990291
+                      ],
+                      [
+                          123.771438598633267,
+                          10.25543022155756
+                      ],
+                      [
+                          123.772293090820312,
+                          10.256179809570426
+                      ],
+                      [
+                          123.772583007812955,
+                          10.256950378418082
+                      ],
+                      [
+                          123.772018432617301,
+                          10.257900238037109
+                      ],
+                      [
+                          123.771476745605696,
+                          10.258009910583553
+                      ],
+                      [
+                          123.770812988281477,
+                          10.258810043335075
+                      ],
+                      [
+                          123.769729614257926,
+                          10.259140014648438
+                      ],
+                      [
+                          123.76873779296875,
+                          10.258950233459473
+                      ],
+                      [
+                          123.766403198242529,
+                          10.259329795837402
+                      ],
+                      [
+                          123.764862060546875,
+                          10.260060310363826
+                      ],
+                      [
+                          123.763420104980923,
+                          10.26123046875
+                      ],
+                      [
+                          123.76312255859375,
+                          10.262299537658748
+                      ],
+                      [
+                          123.76183319091831,
+                          10.262280464172363
+                      ],
+                      [
+                          123.760612487793423,
+                          10.263079643249739
+                      ],
+                      [
+                          123.760971069336051,
+                          10.264169692993164
+                      ],
+                      [
+                          123.761520385742642,
+                          10.265130043030013
+                      ],
+                      [
+                          123.761199951172216,
+                          10.265910148620605
+                      ],
+                      [
+                          123.759811401367301,
+                          10.266739845275822
+                      ],
+                      [
+                          123.758689880371207,
+                          10.267709732055778
+                      ],
+                      [
+                          123.75823974609375,
+                          10.268340110778865
+                      ],
+                      [
+                          123.757980346679688,
+                          10.269519805908203
+                      ],
+                      [
+                          123.758033752441634,
+                          10.269780158996639
+                      ],
+                      [
+                          123.758300781250114,
+                          10.270629882812557
+                      ],
+                      [
+                          123.758377075195312,
+                          10.271730422973576
+                      ],
+                      [
+                          123.758049011230469,
+                          10.273659706115723
+                      ],
+                      [
+                          123.757522583007926,
+                          10.274550437927246
+                      ],
+                      [
+                          123.756622314453466,
+                          10.276049613952864
+                      ],
+                      [
+                          123.755676269531591,
+                          10.27733039855957
+                      ],
+                      [
+                          123.754981994629134,
+                          10.278289794921932
+                      ],
+                      [
+                          123.754226684570312,
+                          10.27931022644043
+                      ],
+                      [
+                          123.753898620605582,
+                          10.280590057373047
+                      ],
+                      [
+                          123.75414276123081,
+                          10.281949996948242
+                      ],
+                      [
+                          123.754356384277344,
+                          10.283249855041731
+                      ],
+                      [
+                          123.754669189453239,
+                          10.284589767456168
+                      ],
+                      [
+                          123.754478454589957,
+                          10.285630226135197
+                      ],
+                      [
+                          123.753890991211392,
+                          10.286609649658317
+                      ],
+                      [
+                          123.753616333007926,
+                          10.286990165710563
+                      ],
+                      [
+                          123.75311279296875,
+                          10.287179946899357
+                      ],
+                      [
+                          123.751907348633154,
+                          10.287500381469783
+                      ],
+                      [
+                          123.750572204590185,
+                          10.287440299987793
+                      ],
+                      [
+                          123.748947143554801,
+                          10.287549972534237
+                      ],
+                      [
+                          123.748069763183594,
+                          10.288290023803711
+                      ],
+                      [
+                          123.747566223144531,
+                          10.289460182189941
+                      ],
+                      [
+                          123.747276306152685,
+                          10.28997993469244
+                      ],
+                      [
+                          123.742271423339957,
+                          10.299220085143986
+                      ],
+                      [
+                          123.741851806640625,
+                          10.299860000610408
+                      ],
+                      [
+                          123.741859436035156,
+                          10.300319671630916
+                      ],
+                      [
+                          123.74198150634777,
+                          10.300840377807617
+                      ],
+                      [
+                          123.742362976074332,
+                          10.301690101623535
+                      ],
+                      [
+                          123.742897033691747,
+                          10.302439689636344
+                      ],
+                      [
+                          123.743827819824673,
+                          10.303170204162541
+                      ],
+                      [
+                          123.754531860351904,
+                          10.309690475464095
+                      ],
+                      [
+                          123.755126953125,
+                          10.310319900512695
+                      ],
+                      [
+                          123.755401611328125,
+                          10.3107204437257
+                      ],
+                      [
+                          123.75546264648483,
+                          10.31128978729248
+                      ],
+                      [
+                          123.755302429199219,
+                          10.312129974365462
+                      ],
+                      [
+                          123.745620727539404,
+                          10.334589958190975
+                      ],
+                      [
+                          123.75109100341831,
+                          10.343379974365291
+                      ],
+                      [
+                          123.756187438964957,
+                          10.352230072021598
+                      ],
+                      [
+                          123.7615966796875,
+                          10.360340118408203
+                      ],
+                      [
+                          123.767616271973111,
+                          10.36824989318842
+                      ],
+                      [
+                          123.770263671875,
+                          10.37106990814209
+                      ],
+                      [
+                          123.771690368652685,
+                          10.372529983520565
+                      ],
+                      [
+                          123.771697998047216,
+                          10.369230270385799
+                      ],
+                      [
+                          123.771743774414404,
+                          10.364370346069336
+                      ],
+                      [
+                          123.772163391113281,
+                          10.361180305481014
+                      ],
+                      [
+                          123.772407531738395,
+                          10.356080055236816
+                      ],
+                      [
+                          123.772926330566406,
+                          10.349209785461539
+                      ],
+                      [
+                          123.772262573242529,
+                          10.340029716491642
+                      ],
+                      [
+                          123.77142333984375,
+                          10.333219528198356
+                      ],
+                      [
+                          123.77056884765625,
+                          10.326729774475154
+                      ],
+                      [
+                          123.781211853027798,
+                          10.325770378112793
+                      ],
+                      [
+                          123.782676696777344,
+                          10.325550079345817
+                      ],
+                      [
+                          123.78340148925804,
+                          10.317270278930778
+                      ],
+                      [
+                          123.785369873046989,
+                          10.287799835205021
+                      ]
+                  ]
+              ]
+          }
+      }
+      
+      
+      L.geoJSON(MinglanillaJson).bindPopup(Minglanilla_description).addTo(MetroCebu)     
