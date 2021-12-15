@@ -1,6 +1,5 @@
 
 
-
 #header {
     text-align: center;
 }
@@ -11,51 +10,25 @@
 
 h4{
     text-align: center;
-    margin: 20px;
-    padding: 20px;
-    background-color: linen;
-    border-radius: 10px;
+    margin: 0px;
+    padding: 15px;
+    background-color: white;
+    /* border-radius: 10px; */
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
-#end{
-    text-align: center;
+/* #banner{
+    height: 10px;
     width: 100%;
-    padding: 30px;
-    background-color: antiquewhite;
-    color: burlywood;
-}
+} */
 
 
 #city-nav{
-    position: relative;
     display: fixed;
-    padding: 30px;
+    padding: 25px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
-.sidebar{
-    height: 100px;
-    width: 100%;
-    background: #6486EC;
-    padding: 30px 0px;
-    position: fixed;
-   
-  }
 
-.sidebar h6{
-    color: white;
-    font-size: 15px;
-    padding: 3px;
-    text-align: center;
-}
-.sidebar ul li{
-    padding: 3px;
-    display: inline-block;
-}
-
-.side-logo{
-    margin-left: auto;
-    margin-right: auto;
-}
 
 #allmap{
     height: 600px;
@@ -66,8 +39,8 @@ h4{
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
-#map{
-    height: 500px;
+#map,#map2,#map3,#map4 {
+    height: 550px;
     width: 90%;
     margin: 40px auto;
     padding: 40px;
@@ -75,41 +48,21 @@ h4{
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
-#map2{
-    height: 400px;
-    width: 80%;
-    margin: 40px auto;
-    padding: 40px;
-
-}
-
-#map3{
-    height: 400px;
-    width: 80%;
-    margin: 40px auto ;
-    padding: 40px;
-}
-
-#map4{
-    height: 400px;
-    width: 80%;
-    margin: 40px auto;
-    padding: 40px;
-}
-
 #map5, #map6,#map7,#map8,#map9 {
-    height: 400px;
-    width: 80%;
+    height: 550px;
+    width: 90%;
     margin: 40px auto;
     padding: 40px;
+    border-radius: 10px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
 #map10, #map11,#map12,#map13 {
-    height: 400px;
-    width: 80%;
+    height: 550px;
+    width: 90%;
     margin: 40px auto;
     padding: 40px;
+    border-radius: 10px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
@@ -125,4 +78,19 @@ h4{
 
 #qr-form{
     padding: 40px;
+}
+
+
+
+#footer{
+    font-size: 15px;
+    background-color: aliceblue;    
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+#footer,p{
+    font-size: 15px;
+    justify-content: center;
+    text-align: center;
 }

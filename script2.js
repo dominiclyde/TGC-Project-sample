@@ -39,7 +39,7 @@ SMSeaside.bindPopup(description1);
 
 // Cebu Vaccine Site 2
 
-let SMCebu = L.marker([10.315882514229278, 123.92632373725831]);
+let SMCebu = L.marker([10.312455308858317, 123.91984090262324]);
 SMCebu.addTo(MetroCebu);
 
 let description2 = `
