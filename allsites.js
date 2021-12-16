@@ -12465,7 +12465,7 @@ let Talisay_description = `
     </tr> 
     <tr>
     <th>No. of Vaccine Sites</th>
-    <th>4</th>
+    <th>3</th>
     </tr>
   </tbody>
       </table>
@@ -13569,7 +13569,7 @@ L.geoJSON(TalisayJson).bindPopup(Talisay_description).addTo(MetroCebu)
 
 let Minglanilla_description = `
       <div style="text-align:center">
-      <img width="100" height="100"src="Images/logo_cebu.png"/>
+      <img width="100" height="100"src="Images/logo_city_minglanilla.jpeg"/>
       <h5>Minglanilla</h5>
       <p>
       <table class="table">
@@ -13590,7 +13590,7 @@ let Minglanilla_description = `
     </tr> 
     <tr>
     <th>No. of Vaccine Sites</th>
-    <th>4</th>
+    <th>3</th>
     </tr>
   </tbody>
       </table>

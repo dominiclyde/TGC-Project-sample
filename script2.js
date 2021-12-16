@@ -13101,7 +13101,7 @@ let description24 = `
       <h5>Immaculate Heart of Mary Academy Gym</h5>
       <p>Poblacion, Ward 3, Minglanilla, 6046 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_mingla_ihma.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Generate QR Card</button>
@@ -13119,7 +13119,7 @@ let description25 = `
       <h5>Minglanilla Sports Complex</h5>
       <p>18 Julio Street, Poblacion Ward 2, Minglanilla City, 6046 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_mingla_sports.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Generate QR Card</button>
@@ -13137,7 +13137,7 @@ let description26 = `
       <h5>Gaisano Grand Mall</h5>
       <p>Cebu S Rd, Minglanilla, 6046 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_mingla_gaisano.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Generate QR Card</button>
@@ -14024,7 +14024,7 @@ let description27 = `
       <h5>Enan Chiong Activity Center</h5>
       <p>East Poblacion Barangay Hall, Natalio B. Bacalso S National Hwy, City of Naga, Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_naga_ecac.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Generate QR Card</button>
@@ -14042,7 +14042,7 @@ let description28 = `
       <h5>APO Cemex Gym</h5>
       <p>2900 South National Hwy, Tina-An, City of Naga, 6037 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_naga_apo.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Generate QR Card</button>`
@@ -14059,7 +14059,7 @@ let description29 = `
       <h5>Inoburan Covered Court</h5>
       <p>Natalio D. Bacalso S. National Highway, Inoburan, City of Naga, 6037 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_naga_inuburan.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Generate QR Card</button>`
@@ -14076,7 +14076,7 @@ let description30 = `
       <h5>Uling Covered Court</h5>
       <p>Naga - Uling Rd, City of Naga, 6037 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_naga_inuburan.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
@@ -15268,7 +15268,7 @@ let description31 = `
       <h5>San Fernando Sports Complex</h5>
       <p>Natalio B. Bacalso S National Hwy, San Fernando, Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_sanfer_sports.png"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Generate QR Card</button>
@@ -15285,7 +15285,7 @@ let description32 = `
       <h5>Rural Health Unit Center</h5>
       <p>Poblacion South, San Fernando, 6018</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_sanfer_rhuc.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Generate QR Card</button>
@@ -15303,7 +15303,7 @@ let description33 = `
       <h5>San Isidro Sports Complex</h5>
       <p>San Isidro Bridge, San Fernando, Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_sanfer_sanisidro.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Generate QR Card</button>
@@ -18134,7 +18134,7 @@ let description34 = `
       <h5>SM Consolacion</h5>
       <p>SM City Consolacion Lamac Consolacion, Cebu City, Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_lacion_sm.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Generate QR Card</button>
@@ -18152,7 +18152,7 @@ let description35 = `
       <h5>Consolacion Municipal Court</h5>
       <p>Central Nautical Hwy, Consolacion, 6001 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_lacion_court.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Generate QR Card</button>
@@ -19765,7 +19765,7 @@ let description36 = `
       <h5>Panphil B. Frasco Memorial Sports Complex</h5>
       <p>Cebu - North Coastal Rd, Poblacion, Liloan, 6002 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_liloan_sports.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
@@ -19781,7 +19781,7 @@ let description37 = `
       <h5>Liloan Central School</h5>
       <p>Liloan Central School, Liloan, 6002 Cebu</p>
       <div style="text-align:center">
-      <img width="250" height="150"src="Images/site_carcar_gym.jpeg"/>
+      <img width="250" height="150"src="Images/site_liloan_central.jpeg"/>
       </div><br>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="booking.html">Book Schedule</button>
       <a type="button" class="btn btn-light" my-2 my-sm-0 href="qrcard.html" >Check Availabilty</button>`
