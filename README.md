@@ -1,6 +1,6 @@
 # TGC-Project-1
 # Metro Cebu Vaccination Drive
-Open website:
+Open website: https://dominiclyde.github.io/TGC-Project-1/allsites.html
 
 # Project Definition
 Metro Cebu Vaccination Drive is a responsive website dedicated for vaccine registration and digital qr card generation for the residents of Metro Cebu. The website contains the map of Metro Cebu, the corresponding vaccine locations of each city and the statistics of the on-going vaccination drive. With this website, users can register and book schedule for their vaccination.
